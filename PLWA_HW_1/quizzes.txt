@@ -1,0 +1,7 @@
+quiz0.txt#0#0#0#0
+quiz1.txt#0#0#0#0
+quiz2.txt#0#0#0#0
+quiz3.txt#0#0#0#0
+quiz4.txt#0#6#6#12
+quiz5.txt#0#3#6#3
+quiz6.txt#0#0#0#0
